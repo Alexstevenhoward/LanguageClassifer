@@ -1,2 +1,2 @@
 # LanguageClassifer
-Trains a model to predict what language a random word would most likely belong to.
+Trains a model to predict which language a random word would most likely belong to.
